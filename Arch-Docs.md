@@ -1,6 +1,6 @@
 layout: page
 title: "Arch-Docs"
-permalink: /docs.github.io
+permalink: /
 
 1. Downloaded the .iso file from the mirror
 2. Downloaded the PGP signature and sha256sums.txt files. Also downloaded some other stuff but I didn’t end up using them
