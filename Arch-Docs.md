@@ -1,5 +1,5 @@
 layout: page
-title: "Arch-Docs"
+title: "Arch-Docs.md"
 permalink: /
 
 1. Downloaded the .iso file from the mirror
