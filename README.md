@@ -108,6 +108,7 @@ This is the documentation for my Arch project:
 106. Added alias with “alias lah=’ls -lah’”
 107. Added “alias ping=’ping -c 10
 108. Added “alias memshow=’free -mlt’”
-109. The terminal is already color coded so I don’t know if I need to do anything…
-110. Ran “sudo pacman -S firefox” to install the web browser.
+109. Had to add them to the .bashrc file in home to make them permanent
+110. The terminal is already color coded so I don’t know if I need to do anything…
+111. Ran “sudo pacman -S firefox” to install the web browser.
 
